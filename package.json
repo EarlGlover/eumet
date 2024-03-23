@@ -1,0 +1,26 @@
+{
+  "name": "eumet",
+  "version": "1.7.2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EarlGlover/eumet.git"
+  },
+  "keywords": [
+    "sint",
+    "Ethereum wallet",
+    "ETH HD Wallet Generator",
+    "Generate ETH wallet",
+    "aut"
+  ],
+  "author": "ElyseOsinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EarlGlover/eumet.git/issues"
+  },
+  "dependencies": {
+    "amagnam": "^1.1.0",
+    "errorconsequatur": "^1.0.0",
+    "hdaddressgenerator": "^1.0.7"
+  }
+}
